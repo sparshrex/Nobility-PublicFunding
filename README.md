@@ -1,4 +1,9 @@
-# Build and Deploy a Web3 Crowdfunding Platform (Kickstarter) As Your First Blockchain Application
-![Crowdfunding](https://i.ibb.co/k6pj0Qt/htum-6.png)
+## Tech Stack 
+## React + Vite 
+## thirdweb
 
-### Launch your development career with project-based coaching on [JS Mastery Pro](https://www.jsmastery.pro).
+# A web 3.0 website used for public well-fare funding.
+# It is used for raising fund for crowdfunding for the nobility work.
+
+
+### My github-Profile - [@sparshrex]

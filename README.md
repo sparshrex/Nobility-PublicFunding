@@ -1,8 +1,8 @@
-# Nobility-PublicFunding
+# Web3.0-Nobility-PublicFunding Website
 
 ### Tech Stack Used
-### React + Vite 
-### thirdweb + Solidity (for smartContract)
+### React + Vite + TailwindCSS
+### thirdweb + Solidity (for SmartContract)
 
 # A web 3.0 website used for public well-fare funding.
 ### It is used for raising fund for crowdfunding for the nobility work.
@@ -11,4 +11,5 @@
 
 
 
-### My github-Profile - [@https://github.com/sparshrex/Nobility-PublicFunding]
+### My github-Profile - [https://github.com/sparshrex/Web3.0-Nobility-PublicFunding-Website]
+### Deploy site on Netlify Url - [https://web3-nobility-publicfunding.netlify.app/]
